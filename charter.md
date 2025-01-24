@@ -10,7 +10,7 @@
 
 - Livrer des features de qualité
 - Maintenir un code plus ou moins propre
-- Partager les connaissances
+- Partager les toutes les connaissances
 
 ## Nos Méthodes
 
