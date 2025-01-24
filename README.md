@@ -2,9 +2,8 @@ Test modif sur ma branche (florian)
 
 ## Compétences techniques
 
-- Languages : (ex: JavaScript, Python, Java...)
-- Frameworks : (ex: React, Spring, Laravel...)
-- Outils : (ex: VS Code, Git, Docker...)
+- Languages : (ex: JavaScript, Java...)
+- Outils : (ex: VS Code, Git)
 - Sport : Foot salle
 - Dressage : Initiation a l'informatique pour les chats
 
@@ -16,6 +15,4 @@ Test modif sur ma branche (florian)
 
 ## Centres d'intérêt
 
-- (ex: Développement web)
-- (ex: Intelligence artificielle)
-- (ex: DevOps)
+- Les jeux vidéos
