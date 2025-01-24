@@ -11,6 +11,7 @@
 - Livrer des features de qualité
 - Maintenir un code propre
 - Partager les connaissances
+- L'age glaciére ne passera pas, les Dodo y survivront 
 
 ## Nos Méthodes
 
